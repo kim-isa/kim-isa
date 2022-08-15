@@ -2,7 +2,7 @@
 -  👋 Hi, I’m @kim-isa
 - 👍 meu email de contato é lara.isabela@escola.pr.gov.br
 - 👀 eu estou interessado em aprender a programar novas liguagens. 
-- 🌱 eu estou aprendendo a pogramae recentemente a linguaguem de JavaScript
+- 🌱 eu estou aprendendo a pogramar recentemente a linguaguem de JavaScript
 - 
 
 <!---
