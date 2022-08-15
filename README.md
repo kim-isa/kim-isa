@@ -3,7 +3,8 @@
 - 👍 meu email de contato é lara.isabela@escola.pr.gov.br
 - 👀 eu estou interessado em aprender a programar novas liguagens. 
 - 🌱 eu estou aprendendo a pogramar recentemente a linguaguem de JavaScrist 
--  bem interesante!!!
+-  bem interesante o curso 
+- 
 
 <!---
 kim-isa/kim-isa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
